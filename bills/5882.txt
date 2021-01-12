@@ -1,0 +1,17 @@
+	welocme to Bill Area
+
+bill number:5882
+custumer Name : gaurav kumar msihra
+phone number :890098900888
+==================================
+products		qty		tpricess
+===============================
+bash shop		66		2640
+rice		7		280
+maza		9		360
+-----------------------------------------------------------------
+costmotic Tex				Rs.132.0
+cold drink Tex				Rs.18.0
+grocery Tex				Rs.14.0
+-----------------------------------------------------------------
+Total Bill				3444.0

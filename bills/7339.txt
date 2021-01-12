@@ -1,0 +1,17 @@
+	welocme to Bill Area
+
+bill number:7339
+custumer Name : gaurav mishra
+phone number :9955995957
+==================================
+products		qty		tpricess
+===============================
+bash shop		1		40
+rice		1		40
+maza		1		40
+-----------------------------------------------------------------
+costmotic Tex				Rs.2.0
+cold drink Tex				Rs.2.0
+grocery Tex				Rs.2.0
+-----------------------------------------------------------------
+Total Bill				126.0

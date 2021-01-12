@@ -1,0 +1,32 @@
+	welocme to Bill Area
+
+bill number:    7387
+custumer Name : gaurav mishra
+phone number :   894954910
+===================================
+products		qty		tpricess
+===================================
+bash shop		1		40
+face cream		1		60
+face wash		1		70
+hair spray		1		80
+body loshan		1		120
+body oil		1		120
+rice		1		40
+food		1		60
+daal		1		70
+wheat		1		80
+sugar		1		120
+tea		1		120
+maza		1		40
+cock		1		60
+frooti		1		70
+thumbs		1		80
+limica		1		120
+sprite		1		120
+-----------------------------------------------------------------
+costmotic Tex				Rs.24.5
+cold drink Tex				Rs.24.5
+grocery Tex				Rs.24.5
+-----------------------------------------------------------------
+Total Bill				1543.5
